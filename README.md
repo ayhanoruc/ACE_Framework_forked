@@ -1,3 +1,11 @@
+
+### NOTES
+nice viz: https://youtu.be/tS7wKpcS8fw?si=9whjCSFPeSdQfOsx
+
+
+
+
+
 <div alt style="text-align: center; transform: scale(.5);">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daveshap/ACE_Framework/main/images/banner.jpg" />
